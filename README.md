@@ -85,12 +85,15 @@ The project includes inference capabilities:
 The notebook includes visualizations comparing input images to detection outputs. Below are placeholders for screenshots:
 
 - **Input Image**: Original image without detections
+  
   ![Input Image](screenshots/input_example.jpg)
 
 - **Output Image**: Image with detected faces highlighted (bounding boxes)
+  
   ![Output Image](screenshots/output_example.png)
 
 - **Cropped Faces**: Extracted face regions from detections
+  
   ![Cropped Faces](screenshots/cropped_faces_example.png)
 
 *Note: Capture screenshots from the notebook's visualization cells (e.g., after running prediction on test images) and replace the placeholder paths with actual image files.*
